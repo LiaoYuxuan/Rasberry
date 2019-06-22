@@ -1,0 +1,105 @@
+﻿{
+  "data": {
+    "id": 2,
+    "title": "云音乐热歌榜",
+    "banner": "https://p1.music.126.net/GhhuF6Ep5Tq9IEvLsyCN7w==/18708190348409091.jpg?param=400y400",
+    "clicks_count": 0,
+    "comments_count": 81,
+    "collections_count": 0,
+    "description": null,
+    "created_at": "2018-06-17T07:57:14.000Z",
+    "user": {
+      "id": 1,
+      "nickname": "smile",
+      "avatar": "http://q.qlogo.cn/qqapp/101430237/CB856508131D00E815AF91192E0C06F6/100"
+    },
+    "songs": [
+      {
+        "id": 1,
+        "title": "爱拼才会赢",
+        "banner": "assets/s1.jpg",
+        "uri": "assets/s1.mp3",
+        "clicks_count": 280000,
+        "comments_count": 0,
+        "album": {
+          "id": 2,
+          "title": "云音乐热歌榜"
+        },
+        "artist": {
+          "id": 1,
+          "nickname": "叶启田",
+          "avatar": "http://q.qlogo.cn/qqapp/101430237/CB856508131D00E815AF91192E0C06F6/100"
+        }
+      },
+      {
+        "id": 2,
+        "title": "爱的代价",
+        "banner": "assets/s2.jpg",
+        "uri": "assets/s2.mp3",
+        "clicks_count": 123,
+        "comments_count": 0,
+        "album": {
+          "id": 2,
+          "title": "云音乐热歌榜"
+        },
+        "artist": {
+          "id": 2,
+          "nickname": "李宗盛",
+          "avatar": "http://q.qlogo.cn/qqapp/101430237/CB856508131D00E815AF91192E0C06F6/100"
+        }
+      },
+      {
+        "id": "3",
+        "title": "起风了",
+        "banner": "http://p1.music.126.net/aMVPsO00OqlVTS2yMH8RgA==/109951163785600029.jpg?param=400y400",
+        "uri": "https://api.bzqll.com/music/netease/url?id=1338695683&key=579621905",
+        "clicks_count": 123,
+        "comments_count": 0,
+        "album": {
+          "id": 2,
+          "title": "云音乐热歌榜"
+        },
+        "artist": {
+          "id": 3,
+          "nickname": "吴青峰",
+          "avatar": "http://q.qlogo.cn/qqapp/101430237/CB856508131D00E815AF91192E0C06F6/100"
+        }
+      },
+      {
+        "id": "4",
+        "title": "一曲相思",
+        "banner": "http://p1.music.126.net/yHRY23bKbLJjjbSnE-T8gA==/109951163575213436.jpg?param=400y400",
+        "uri": "https://api.bzqll.com/music/netease/url?id=1313558186&key=579621905",
+        "clicks_count": 123,
+        "comments_count": 0,
+        "album": {
+          "id": 2,
+          "title": "云音乐热歌榜"
+        },
+        "artist": {
+          "id": 4,
+          "nickname": "半阳",
+          "avatar": "http://q.qlogo.cn/qqapp/101430237/CB856508131D00E815AF91192E0C06F6/100"
+        }
+      },
+      {
+        "id": "6",
+        "title": "盗将行",
+        "banner": "http://p1.music.126.net/aMVPsO00OqlVTS2yMH8RgA==/109951163785600029.jpg?param=400y400",
+        "uri": "https://api.bzqll.com/music/netease/url?id=574566207&key=579621905",
+        "clicks_count": 123,
+        "comments_count": 0,
+        "album": {
+          "id": 2,
+          "title": "云音乐热歌榜"
+        },
+        "artist": {
+          "id": 5,
+          "nickname": "花粥/马雨阳",
+          "avatar": "http://q.qlogo.cn/qqapp/101430237/CB856508131D00E815AF91192E0C06F6/100"
+        }
+      }
+    ],
+    "collection_id": null
+  }
+}
